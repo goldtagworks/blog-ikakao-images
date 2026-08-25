@@ -18,13 +18,13 @@ posts/{slug}/{name}.{ext}
 ## 참조 URL
 
 ```
-https://raw.githubusercontent.com/goldtagworks/ikakao-images/main/posts/{slug}/{name}.png
+https://raw.githubusercontent.com/goldtagworks/blog-ikakao-images/main/posts/{slug}/{name}.png
 ```
 
 마크다운 본문에서는 이렇게 쓴다.
 
 ```markdown
-![대체 텍스트](https://raw.githubusercontent.com/goldtagworks/ikakao-images/main/posts/{slug}/{name}.png)
+![대체 텍스트](https://raw.githubusercontent.com/goldtagworks/blog-ikakao-images/main/posts/{slug}/{name}.png)
 ```
 
 ## 파일 규칙
